@@ -1,0 +1,19 @@
+/* Day3_ConorDeighan.css */
+.row {
+  display: flex;
+  align-items: center;   
+  gap: 20px;             
+}
+
+.heading1 {
+  flex: 1;               
+}
+
+p {
+  font-size: 22px;
+  color: white;
+}
+
+audio {
+  align-items: center;
+}
